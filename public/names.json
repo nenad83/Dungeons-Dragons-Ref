@@ -1,0 +1,77 @@
+﻿[
+    {
+        "id": 0,
+        "race": "Human",
+        "image": "/img/human.jpg",
+        "mname": ["Bozard", "Jonathan", "Robert", "Seihmar", "Bashur", "Amid", "Harin", "Pal", "Ulbrec", "Balen", "Nashar", "Roel", "Drago", "Andrew", "Malachi", "Kampion", "Cyden",
+        "Haden", "Towne", "Godarth", "Benjamin", "Maximus", "Barthel", "Porter", "Eldon", "Ramon", "Evendur", "Kenneth"],
+        "fname": ["Kalia", "Sandra", "Vesnia", "Gerthrude", "Ula", "Louanna", "Viviane", "Valeria", "Gabriela", "Anika", "Leonna", "Elizabeth", "Jette", "Jimena", "Arveene",
+        "Esvele", "Jhessail", "Kerri", "Lureene", "Shandri", "Tessele", "Alhandra", "Brenna"],
+        "lname": ["Kalia", "Sandra", "Vesnia"]
+    },
+    {
+        "id": 1,
+        "race": "Elf",
+        "image": "/img/elf.jpg",
+        "mname": ["Adran", "Aelar", "Aramil", "Arannis", "Aust", "Beiro", "Berrian", "Carric", "Enialis", "Erdan", "Erevan", "Galinndan", "Hadarai", "Heian", "Himo", "Immeral", "Ivellios", "Laucian", "Mindartis", "Paelias", "Peren", "Quarion", "Riardon", "Rolen", "Soveliss", "Thamior", "Tharivol", "Theren", "Varis"],
+        "fname": ["Adrie", "Althaea", "Anastrianna", "Andraste", "Antinua", "Bethrynna", "Birel", "Caelynn", "Drusilia", "Enna", "Felosial", "Ielenia", "Jelenneth", "Keyleth", "Leshanna", "Lia", "Meriele", "Mialee", "Naivara", "Quelenna", "Quillathe", "Sariel", "Shanairra", "Shava", "Silaqui", "Theirastra", "Thia", "Vadania", "Valanthe", "Xanaphia"],
+        "lname": ["Kalia", "Sandra", "Vesnia"]
+    },
+    {
+        "id": 2,
+        "race": "Dwarf",
+        "image": "/img/dwarf.jpg",
+        "mname": ["Adrik", "Alberich", "Baern", "Barendd", "Brottor", "Bruenor", "Dain", "Darrak", "Delg", "Eberk", "Einkil", "Fargrim", "Flint", "Gardain", "Harbek", "Kildrak", "Morgran", "Orsik", "Oskar", "Rangrim", "Rurik", "Taklinn", "Thoradin", "Thorin", "Tordek", "Traubon", "Travok", "Ulfgar", "Veit", "Vondal"],
+        "fname": ["Amber", "Artin", "Audhild", "Bardryn", "Dagnal", "Diesa", "Durga", "Eldeth", "Falkrunn", "Finellen", "Gunnloda", "Gurdis", "Helja", "Hlin", "Kathra", "Kristryd", "Ilde", "Liftrasa", "Mardred", "Riswynn", "Sannl", "Torbera", "Torgga", "Vistra"],
+        "lname": ["Kalia", "Sandra", "Vesnia"]
+    },
+    {
+        "id": 3,
+        "race": "Gnome",
+        "image": "/img/gnome.jpg",
+        "mname": ["Alston", "Alvyn", "Boddynock", "Brocc", "Burgell", "Dimble", "Eldon", "Erky", "Fonkin", "Frug", "Gerbo", "Gimble", "Glim", "Jebeddo", "Kellen", "Namfoodle", "Orryn", "Roondar", "Seebo", "Sindri", "Warryn", "Wrenn", "Zook"],
+        "fname": ["Bimpnottin", "Breena", "Caramip", "Carlin", "Donella", "Duvamil", "Ella", "Ellyjobell", "Ellywick", "Lilli", "Loopmottin", "Lorilla", "Mardnab", "Nissa", "Nyx", "Oda", "Orla", "Roywyn", "Shamil", "Tana", "Waywocket", "Zanna"],
+        "lname": ["Kalia", "Sandra", "Vesnia"]
+    },
+    {
+        "id": 4,
+        "race": "Halfling",
+        "image": "/img/halfling.jpg",
+        "mname": ["Alton", "Ander", "Cade", "Corrin", "Eldon", "Errich", "Finnan", "Garret", "Lindal", "Lyle", "Merric", "Milo", "Osborn", "Perrin", "Reed", "Roscoe", "Wellby"],
+        "fname": ["Andry", "Bree", "Callie", "Cora", "Euphemia", "Jillian", "Kithri", "Lavinia", "Lidda", "Merla", "Nedda", "Paela", "Portia", "Seraphina", "Shaena", "Trym", "Vani", "Verna"],
+        "lname": ["Kalia", "Sandra", "Vesnia"]
+    },
+    {
+        "id": 5,
+        "race": "Half-Orc",
+        "image": "/img/halforc.jpg",
+        "mname": ["Dench", "Feng", "Gell", "Henk", "Holg", "Imsh", "Keth", "Krusk", "Mhurren", "Ront", "Shump", "Thokk"],
+        "fname": ["Baggi", "Emen", "Engong", "Kansif", "Myev", "Neega", "Ovak", "Ownka", "Shautha", "Sutha", "Vola", "Volen", "Yevelda"],
+        "lname": ["Kalia", "Sandra", "Vesnia"]
+    },
+    {
+        "id": 6,
+        "race": "Tiefling",
+        "image": "/img/tiefling.jpg",
+        "mname": ["Akmenos", "Amnon", "Barakas", "Damakos", "Ekemon", "Iados", "Kairon", "Leucis", "Melech", "Mordai", "Morthos", "Pelaios", "Skamos", "Therai"],
+        "fname": ["Akta", "Anakis", "Bryseis", "Criella", "Damaia", "Ea", "Kallista", "Lerissa", "Makaria", "Nemeia", "Orianna", "Phelaia", "Rieta"],
+        "lname": ["Kalia", "Sandra", "Vesnia"]
+    },
+    {
+        "id": 7,
+        "race": "Drow",
+        "image": "/img/drow.jpg",
+        "mname": ["Adinirahc", "Alak", "Alton", "Amalica", "Antatlab", "Baragh", "Belgos", "Berg’inyon", "Bhintel", "Bruherd", "Calimar", "Chaszmyr", "Dantrag", "Dinin", "Dipree", "Divolg", "Drizzt", "Duagloth", "Durdyn", "Elkantar", "Filraen", "Gelroos", "Ghaundan", "Ghaundar", "Gomph", "Guldor", "Hatch’net", "Houndaer", "Ilmryn", "Ilphrin", "Istolil", "Istorvir", "Jarlaxle", "Jeggred", "Kalannar", "Kelnozz", "Krenaste", "Krondorl", "Lesaonar", "Lyme", "Malaggar", "Masoj", "Merinid", "Mourn", "Nadal", "Nalfein", "Nilonim", "Nym", "Omareth", "Orgoloth", "Pharaun", "Pir’Oront", "Quewen", "Quild", "Ranaghar", "Relonor", "Riklaunim", "Rinnil", "Rizzen", "Ryld", "Ryltar", "Sabrar", "Seldszar", "Shar", "Solaufein", "Sorn", "Szordrin", "Tarlyn", "Tathlyn", "Tebryn", "Tluth", "Tsabrak", "Urlryn", "Valas", "Vorn", "Vuzlyn", "Welverin", "Wode", "Yazston", "Zaknafein"],
+        "fname": ["Akordia", "Alauniira", "Alystin", "Angaste", "Ardulace", "Aunrae", "Baltana", "Belarbreena", "Bladen’Kerst", "Briza", "Burryna", "Chalithra", "Charinida", "Chessintra", "Dhaunae", "Dilynrae", "Drisinil", "Eclavdra", "Elvanshalee", "Elvraema", "Erelda", "Faeryl", "Felyndiira", "Filfaere", "Fini’they", "Gaussra", "G’eldriia", "Ginafae", "Greyanna", "Haelra", "Halavin", "Halisstra", "Ilivarra", "Ilmra", "Imrae", "Inidil", "Irae", "Irruit", "Iymril", "Jhaelryna", "Jhanniss", "Jhulae", "Jyslin", "Laele", "Larynda", "LiNeerlay", "Lirdnolu", "Lualyrr", "Malice", "Maya", "Micarlin", "Minolin", "Molvayas", "Myrymma", "Nathrae", "Nedylene", "Nulliira", "Olorae", "Pellanistra", "Phaere", "Phyrra", "Qilué", "Quarra", "Quave", "Quenthel", "Rauva", "Rilrae", "Sabal", "Sabrae", "Shi’nayne", "ShriNeerune", "Shurdriira", "Shyntlara", "SiNafay", "Sos’Umptu", "Ssapriina", "Susprina", "Talabrina", "Talice", "Triel", "T’risstree", "Ulviirala", "Umrae", "Vendes", "Viconia", "Vierna", "Vlondril", "Waerva", "Wuyondra", "Xullrae", "Xune", "Yasraena", "Zarra", "Zebeyana", "Zesstra", "Zilvra"],
+        "lname": ["Kalia", "Sandra", "Vesnia"]
+    },
+    {
+        "id": 8,
+        "race": "Duergar",
+        "image": "/img/duergar.jpg",
+        "mname": ["Bruthwol", "Horgar", "Ivar", "Murgol", "Thangardt"],
+        "fname": ["Brilmara", "Dorthis", "Olga", "Ulara", "Weltha"],
+        "lname": ["Kalia", "Sandra", "Vesnia"]
+    }
+]
+    

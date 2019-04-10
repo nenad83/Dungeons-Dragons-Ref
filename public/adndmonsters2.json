@@ -1,0 +1,18 @@
+{
+   "id": 0, 
+      "name": {
+         "_type": "string",
+         "__text": "Aasimar"
+      },
+   "id": 1,
+      "name": {
+         "_type": "string",
+         "__text": "Aboleth"
+      },
+   "id": 2, 
+      "name": {
+         "_type": "string",
+         "__text": "Achaierai"
+      }
+   
+}

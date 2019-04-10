@@ -1,0 +1,60 @@
+.dnd3 {
+    padding: 20px 0 0 0;
+    text-align: center;
+}
+.dnd3 h3{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.dnd3monsterlist {
+    padding-top: 20px;
+    margin: 0;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+.dnd3monsterlist h3 {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.dnd3monsterlist a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+.dnd3classlist {
+    padding-top: 20px;
+    margin: 0;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+.dnd3classlist h3 {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.dnd3classlist a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.dnd3monster-detail h1{
+    text-align: center;
+    color: yellow;
+}
+.dnd3monster-detail h4{
+   padding: 0 0 0 20px;
+}
+.dnd3monster-detail{
+    margin-left: 20px;
+}

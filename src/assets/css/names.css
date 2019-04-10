@@ -1,0 +1,59 @@
+.namegen {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.nameslist {
+    margin: 0;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+}
+.nameslist a {
+    /* padding-top: 20px; */
+    margin: 0;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.nameslist h3 {
+    padding-top: 0;
+    margin: 0;
+}
+.nameslist img {
+    padding-top: 10px;
+    margin: 0;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+}
+
+.namegen h1{
+    padding-top: 50px;
+    margin: 0;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+.namegen h3{
+    font-size: 35px;
+    color: yellow;
+    padding-top: 50px;
+    margin: 0;
+    text-align: center;
+    text-decoration: none;
+}
+
+.namegen button {
+    font-size: 22px;
+    background-color:#e50712;
+    color:#322f4e;
+    border: 2px solid black;
+    height: 40px;
+    width: 100px;
+}

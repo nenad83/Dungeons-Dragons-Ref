@@ -1,0 +1,89 @@
+html, body {
+    background-color: black;
+    color: white;
+    text-decoration:  none;
+    list-style-type: none;
+    font-family: SHERWOOD;
+}
+@font-face {
+    font-family: "SHERWOOD";
+    src: url(SHERWOOD.TTF);
+}
+hr {
+    background-color: white;
+}
+
+#dropdown-basic {
+    width: 100%;
+    /* align-content: right; */
+    background-color: black;
+    color: white;
+    margin-bottom: 10px;
+    display: block;
+}
+#dropdown-li{
+    background-color: black;
+}
+
+#header hr {
+    color: red;
+    background-color: red;
+}
+#dropdown-basic li {
+    color: red;
+}
+#header {
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    /* border-bottom: 1px solid red; */
+    list-style-type: none;
+}
+#header span {
+    text-align: center;
+    text-decoration: none;
+    color: red;
+    margin: 0 20px;
+    list-style-type: none;
+
+}
+
+#header a{
+    text-align: center;
+    text-decoration: none;
+}
+
+#header li :active{
+    color: red;
+}
+
+.home {
+    padding-top: 10px; 
+    text-align: center;
+    align-items: center;
+}
+.home h3 {
+    padding: 0;
+    margin: 0;
+}
+
+.dice {
+    text-align: center;
+    margin: 20px 0 0 0;
+    padding: 20px;
+}
+.dice button {
+    margin: 20px 0 0 20px;
+}
+.dice img {
+    height: 70px;
+    width: 70px;
+}
+.dice img {
+    height: 70px;
+    width: 70px;
+}
+
+
+
+

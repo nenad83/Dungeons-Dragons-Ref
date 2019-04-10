@@ -1,0 +1,65 @@
+.adnd {
+    padding: 20px 0 0 0;
+    text-align: center;
+}
+.adnd h3{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.adndmonsterlist {
+    padding-top: 20px;
+    margin: 0;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+.adndmonsterlist h3 {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.adndmonsterlist a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+.adndclasslist {
+    padding-top: 20px;
+    margin: 0;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+.adndclasslist h3 {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.adndclasslist a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.adndmonster-detail h1{
+    text-align: center;
+    color: yellow;
+}
+.adndmonster-detail h4{
+   padding: 0 0 0 20px;
+}
+.adndclass-detail h1{
+    text-align: center;
+    color: yellow;
+}
+
+.adndclass-detail{
+    margin-left: 20px;
+}
